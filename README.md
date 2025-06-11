@@ -20,7 +20,9 @@ It includes tasks such as data cleaning, transformation, visualisation, and basi
 
 - **Python**
   - pandas
+  - NumPy
   - matplotlib
+  - OS module
   - Visual Studio Code
 
 ## File Structure
@@ -31,8 +33,8 @@ data_analysis_project/
 ├── README.md
 
 
-## How to Run
-    (do in GitBash application)
+## How to Run (Install GIT)
+    https://git-scm.com/downloads
 
 1. Clone the repository:
    git clone https://github.com/hemantkafle/data_analysis_project.git
